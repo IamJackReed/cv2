@@ -1,0 +1,1255 @@
+<!DOCTYPE html>
+<html lang="en-US" >
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<!-- WP_HEAD() START -->
+<style>body{visibility:hidden;}</style><script data-cfasync="false">window.addEventListener("DOMContentLoaded",()=>document.body.style.visibility="inherit")</script><noscript><style>body{visibility:inherit;}</style></noscript><meta name='robots' content='noindex, follow' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v20.6 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Page not found - Jake Sinclair</title>
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:title" content="Page not found - Jake Sinclair" />
+	<meta property="og:site_name" content="Jake Sinclair" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://jakesinclair.ca/#website","url":"https://jakesinclair.ca/","name":"Jake Sinclair","description":"Digital Designer","publisher":{"@id":"https://jakesinclair.ca/#/schema/person/48cb2b6e89adb562dcb61a1c350455a5"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://jakesinclair.ca/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":["Person","Organization"],"@id":"https://jakesinclair.ca/#/schema/person/48cb2b6e89adb562dcb61a1c350455a5","name":"Jake Sinclair","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://jakesinclair.ca/#/schema/person/image/","url":"https://jakesinclair.ca/wp-content/uploads/2022/03/linkedinprofile-2.jpg","contentUrl":"https://jakesinclair.ca/wp-content/uploads/2022/03/linkedinprofile-2.jpg","width":1500,"height":1500,"caption":"Jake Sinclair"},"logo":{"@id":"https://jakesinclair.ca/#/schema/person/image/"},"sameAs":["https://jakesinclair.ca","https://www.instagram.com/fnlyfms","https://www.linkedin.com/in/fnlyfms/"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel='dns-prefetch' href='//use.typekit.net' />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='dns-prefetch' href='//c0.wp.com' />
+<link id="ma-customfonts" href="//jakesinclair.ca/wp-content/uploads/fonts/ma_customfonts.css?ver=69abba95" rel="stylesheet" type="text/css" />		<!-- This site uses the Google Analytics by MonsterInsights plugin v9.0.1 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+							<script src="//www.googletagmanager.com/gtag/js?id=G-SJ43L4CP61"  data-cfasync="false" data-wpfc-render="false" type="text/javascript" async></script>
+			<script data-cfasync="false" data-wpfc-render="false" type="text/javascript">
+				var mi_version = '9.0.1';
+				var mi_track_user = true;
+				var mi_no_track_reason = '';
+								var MonsterInsightsDefaultLocations = {"page_location":"https:\/\/jakesinclair.ca\/wp-content\/uploads\/oxygen\/css\/http:\/jakesinclair.ca\/wp-content\/uploads\/2022\/04\/brandall.jpg\/"};
+				if ( typeof MonsterInsightsPrivacyGuardFilter === 'function' ) {
+					var MonsterInsightsLocations = (typeof MonsterInsightsExcludeQuery === 'object') ? MonsterInsightsPrivacyGuardFilter( MonsterInsightsExcludeQuery ) : MonsterInsightsPrivacyGuardFilter( MonsterInsightsDefaultLocations );
+				} else {
+					var MonsterInsightsLocations = (typeof MonsterInsightsExcludeQuery === 'object') ? MonsterInsightsExcludeQuery : MonsterInsightsDefaultLocations;
+				}
+
+								var disableStrs = [
+										'ga-disable-G-SJ43L4CP61',
+									];
+
+				/* Function to detect opted out users */
+				function __gtagTrackerIsOptedOut() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						if (document.cookie.indexOf(disableStrs[index] + '=true') > -1) {
+							return true;
+						}
+					}
+
+					return false;
+				}
+
+				/* Disable tracking if the opt-out cookie exists. */
+				if (__gtagTrackerIsOptedOut()) {
+					for (var index = 0; index < disableStrs.length; index++) {
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				/* Opt-out function */
+				function __gtagTrackerOptout() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						document.cookie = disableStrs[index] + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				if ('undefined' === typeof gaOptout) {
+					function gaOptout() {
+						__gtagTrackerOptout();
+					}
+				}
+								window.dataLayer = window.dataLayer || [];
+
+				window.MonsterInsightsDualTracker = {
+					helpers: {},
+					trackers: {},
+				};
+				if (mi_track_user) {
+					function __gtagDataLayer() {
+						dataLayer.push(arguments);
+					}
+
+					function __gtagTracker(type, name, parameters) {
+						if (!parameters) {
+							parameters = {};
+						}
+
+						if (parameters.send_to) {
+							__gtagDataLayer.apply(null, arguments);
+							return;
+						}
+
+						if (type === 'event') {
+														parameters.send_to = monsterinsights_frontend.v4_id;
+							var hookName = name;
+							if (typeof parameters['event_category'] !== 'undefined') {
+								hookName = parameters['event_category'] + ':' + name;
+							}
+
+							if (typeof MonsterInsightsDualTracker.trackers[hookName] !== 'undefined') {
+								MonsterInsightsDualTracker.trackers[hookName](parameters);
+							} else {
+								__gtagDataLayer('event', name, parameters);
+							}
+							
+						} else {
+							__gtagDataLayer.apply(null, arguments);
+						}
+					}
+
+					__gtagTracker('js', new Date());
+					__gtagTracker('set', {
+						'developer_id.dZGIzZG': true,
+											});
+					if ( MonsterInsightsLocations.page_location ) {
+						__gtagTracker('set', MonsterInsightsLocations);
+					}
+										__gtagTracker('config', 'G-SJ43L4CP61', {"forceSSL":"true","link_attribution":"true","page_path":'\/404.html?page=' + document.location.pathname + document.location.search + '&from=' + document.referrer} );
+															window.gtag = __gtagTracker;										(function () {
+						/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+						/* ga and __gaTracker compatibility shim. */
+						var noopfn = function () {
+							return null;
+						};
+						var newtracker = function () {
+							return new Tracker();
+						};
+						var Tracker = function () {
+							return null;
+						};
+						var p = Tracker.prototype;
+						p.get = noopfn;
+						p.set = noopfn;
+						p.send = function () {
+							var args = Array.prototype.slice.call(arguments);
+							args.unshift('send');
+							__gaTracker.apply(null, args);
+						};
+						var __gaTracker = function () {
+							var len = arguments.length;
+							if (len === 0) {
+								return;
+							}
+							var f = arguments[len - 1];
+							if (typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function') {
+								if ('send' === arguments[0]) {
+									var hitConverted, hitObject = false, action;
+									if ('event' === arguments[1]) {
+										if ('undefined' !== typeof arguments[3]) {
+											hitObject = {
+												'eventAction': arguments[3],
+												'eventCategory': arguments[2],
+												'eventLabel': arguments[4],
+												'value': arguments[5] ? arguments[5] : 1,
+											}
+										}
+									}
+									if ('pageview' === arguments[1]) {
+										if ('undefined' !== typeof arguments[2]) {
+											hitObject = {
+												'eventAction': 'page_view',
+												'page_path': arguments[2],
+											}
+										}
+									}
+									if (typeof arguments[2] === 'object') {
+										hitObject = arguments[2];
+									}
+									if (typeof arguments[5] === 'object') {
+										Object.assign(hitObject, arguments[5]);
+									}
+									if ('undefined' !== typeof arguments[1].hitType) {
+										hitObject = arguments[1];
+										if ('pageview' === hitObject.hitType) {
+											hitObject.eventAction = 'page_view';
+										}
+									}
+									if (hitObject) {
+										action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
+										hitConverted = mapArgs(hitObject);
+										__gtagTracker('event', action, hitConverted);
+									}
+								}
+								return;
+							}
+
+							function mapArgs(args) {
+								var arg, hit = {};
+								var gaMap = {
+									'eventCategory': 'event_category',
+									'eventAction': 'event_action',
+									'eventLabel': 'event_label',
+									'eventValue': 'event_value',
+									'nonInteraction': 'non_interaction',
+									'timingCategory': 'event_category',
+									'timingVar': 'name',
+									'timingValue': 'value',
+									'timingLabel': 'event_label',
+									'page': 'page_path',
+									'location': 'page_location',
+									'title': 'page_title',
+									'referrer' : 'page_referrer',
+								};
+								for (arg in args) {
+																		if (!(!args.hasOwnProperty(arg) || !gaMap.hasOwnProperty(arg))) {
+										hit[gaMap[arg]] = args[arg];
+									} else {
+										hit[arg] = args[arg];
+									}
+								}
+								return hit;
+							}
+
+							try {
+								f.hitCallback();
+							} catch (ex) {
+							}
+						};
+						__gaTracker.create = newtracker;
+						__gaTracker.getByName = newtracker;
+						__gaTracker.getAll = function () {
+							return [];
+						};
+						__gaTracker.remove = noopfn;
+						__gaTracker.loaded = true;
+						window['__gaTracker'] = __gaTracker;
+					})();
+									} else {
+										console.log("");
+					(function () {
+						function __gtagTracker() {
+							return null;
+						}
+
+						window['__gtagTracker'] = __gtagTracker;
+						window['gtag'] = __gtagTracker;
+					})();
+									}
+			</script>
+				<!-- / Google Analytics by MonsterInsights -->
+		<link rel='stylesheet' id='wp-block-library-css'  href='https://c0.wp.com/c/6.0.9/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='mediaelement-css'  href='https://c0.wp.com/c/6.0.9/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='https://c0.wp.com/c/6.0.9/wp-includes/js/mediaelement/wp-mediaelement.min.css' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='automaticcss-core-css'  href='https://jakesinclair.ca/wp-content/uploads/automatic-css/automatic.css?ver=1648475681' type='text/css' media='all' />
+<link rel='stylesheet' id='oxygen-aos-css'  href='https://jakesinclair.ca/wp-content/plugins/oxygen/component-framework/vendor/aos/aos.css?ver=6.0.9' type='text/css' media='all' />
+<link rel='stylesheet' id='oxygen-css'  href='https://jakesinclair.ca/wp-content/plugins/oxygen/component-framework/oxygen.css?ver=3.9' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwentyone-jetpack-css'  href='https://c0.wp.com/p/jetpack/10.9.2/modules/theme-tools/compat/twentytwentyone.css' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://c0.wp.com/p/jetpack/10.9.2/css/jetpack.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://jakesinclair.ca/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=9.0.1' id='monsterinsights-frontend-script-js'></script>
+<script data-cfasync="false" data-wpfc-render="false" type="text/javascript" id='monsterinsights-frontend-script-js-extra'>/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/jakesinclair.ca","hash_tracking":"false","v4_id":"G-SJ43L4CP61"};/* ]]> */
+</script>
+<script type='text/javascript' src='https://cdn.jsdelivr.net/npm/circular-revealer@0.0.8/dist/index.iife.js' id='script-619058dcc0384-js'></script>
+<script type='text/javascript' src='https://jakesinclair.ca/wp-content/plugins/oxygen/component-framework/vendor/aos/aos.js?ver=1' id='oxygen-aos-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/6.0.9/wp-includes/js/jquery/jquery.min.js' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://use.typekit.net/tqb4set.js?ver=6.0.9' id='oxygen-adobe-typekit-js'></script>
+<script type='text/javascript' id='oxygen-adobe-typekit-js-after'>
+try{Typekit.load({ async: true });}catch(e){}
+</script>
+<link rel="https://api.w.org/" href="https://jakesinclair.ca/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://jakesinclair.ca/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://jakesinclair.ca/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 6.0.9" />
+<style>
+
+/*! Devices.css v0.1.16 | MIT License | github.com/picturepan2/devices.css */.device,.device *,.device ::after,.device ::before,.device::after,.device::before{box-sizing:border-box;display:block}.device{position:relative;transform:scale(1);z-index:1}.device .device-frame{z-index:1}.device .device-content{background-color:#fff;background-position:center center;background-size:cover;object-fit:cover;position:relative}.device-iphone-x{height:868px;width:428px}.device-iphone-x .device-frame{background:#222;border-radius:68px;box-shadow:inset 0 0 2px 2px #c8cacb,inset 0 0 0 7px #e2e3e4;height:868px;padding:28px;width:428px}.device-iphone-x .device-content{border-radius:40px;height:812px;width:375px}.device-iphone-x .device-stripe::after,.device-iphone-x .device-stripe::before{border:solid rgba(51,51,51,.25);border-width:0 7px;content:"";height:7px;left:0;position:absolute;width:100%;z-index:9}.device-iphone-x .device-stripe::after{top:85px}.device-iphone-x .device-stripe::before{bottom:85px}.device-iphone-x .device-header{background:#222;border-bottom-left-radius:20px;border-bottom-right-radius:20px;height:30px;left:50%;margin-left:-102px;position:absolute;top:28px;width:204px}.device-iphone-x .device-header::after,.device-iphone-x .device-header::before{content:"";height:10px;position:absolute;top:0;width:10px}.device-iphone-x .device-header::after{background:radial-gradient(circle at bottom left,transparent 0,transparent 75%,#222 75%,#222 100%);left:-10px}.device-iphone-x .device-header::before{background:radial-gradient(circle at bottom right,transparent 0,transparent 75%,#222 75%,#222 100%);right:-10px}.device-iphone-x .device-sensors::after,.device-iphone-x .device-sensors::before{content:"";position:absolute}.device-iphone-x .device-sensors::after{background:#444;border-radius:3px;height:6px;left:50%;margin-left:-25px;top:32px;width:50px}.device-iphone-x .device-sensors::before{background:#444;border-radius:50%;height:14px;left:50%;margin-left:40px;top:28px;width:14px}.device-iphone-x .device-btns{background:#c8cacb;height:32px;left:-3px;position:absolute;top:115px;width:3px}.device-iphone-x .device-btns::after,.device-iphone-x .device-btns::before{background:#c8cacb;content:"";height:62px;left:0;position:absolute;width:3px}.device-iphone-x .device-btns::after{top:60px}.device-iphone-x .device-btns::before{top:140px}.device-iphone-x .device-power{background:#c8cacb;height:100px;position:absolute;right:-3px;top:200px;width:3px}.device-iphone-8{height:871px;width:419px}.device-iphone-8 .device-frame{background:#fff;border-radius:68px;box-shadow:inset 0 0 0 2px #c8cacb,inset 0 0 0 7px #e2e3e4;height:871px;padding:102px 22px;width:419px}.device-iphone-8 .device-content{border:2px solid #222;border-radius:4px;height:667px;width:375px}.device-iphone-8 .device-stripe::after,.device-iphone-8 .device-stripe::before{border:solid rgba(51,51,51,.15);border-width:0 7px;content:"";height:6px;left:0;position:absolute;width:100%;z-index:9}.device-iphone-8 .device-stripe::after{top:68px}.device-iphone-8 .device-stripe::before{bottom:68px}.device-iphone-8 .device-header{border:2px solid #c8cacb;border-radius:50%;bottom:25px;height:58px;left:50%;margin-left:-29px;position:absolute;width:58px}.device-iphone-8 .device-sensors{background:#666;border-radius:3px;height:6px;left:50%;margin-left:-38px;position:absolute;top:52px;width:76px}.device-iphone-8 .device-sensors::after,.device-iphone-8 .device-sensors::before{background:#666;border-radius:50%;content:"";position:absolute}.device-iphone-8 .device-sensors::after{height:10px;left:50%;margin-left:-5px;top:-25px;width:10px}.device-iphone-8 .device-sensors::before{height:12px;left:-42px;margin-top:-6px;top:50%;width:12px}.device-iphone-8 .device-btns{background:#c8cacb;height:30px;left:-3px;position:absolute;top:102px;width:3px}.device-iphone-8 .device-btns::after,.device-iphone-8 .device-btns::before{background:#c8cacb;content:"";height:56px;left:0;position:absolute;width:3px}.device-iphone-8 .device-btns::after{top:62px}.device-iphone-8 .device-btns::before{top:132px}.device-iphone-8 .device-power{background:#c8cacb;height:80px;position:absolute;right:-2px;top:160px;width:3px}.device-iphone-8.device-gold .device-frame{box-shadow:inset 0 0 0 2px #e4b08a,inset 0 0 0 7px #f7e8dd}.device-iphone-8.device-gold .device-header{border-color:#e4b08a}.device-iphone-8.device-gold .device-btns,.device-iphone-8.device-gold .device-btns::after,.device-iphone-8.device-gold .device-btns::before{background:#e4b08a}.device-iphone-8.device-gold .device-power{background:#e4b08a}.device-iphone-8.device-spacegray .device-frame{background:#222;box-shadow:inset 0 0 0 2px #74747a,inset 0 0 0 7px #9b9ba0}.device-iphone-8.device-spacegray .device-stripe::after,.device-iphone-8.device-spacegray .device-stripe::before{border-color:rgba(204,204,204,.35)}.device-iphone-8.device-spacegray .device-btns,.device-iphone-8.device-spacegray .device-btns::after,.device-iphone-8.device-spacegray .device-btns::before{background:#74747a}.device-google-pixel-2-xl{height:832px;width:404px}.device-google-pixel-2-xl .device-frame{background:#121212;border-radius:36px;box-shadow:inset 0 0 0 2px #cfcfcf,inset 0 0 0 7px #9c9c9c;height:832px;padding:56px 22px;width:404px}.device-google-pixel-2-xl .device-content{border-radius:27px;height:720px;width:360px}.device-google-pixel-2-xl .device-header{height:832px;left:50%;margin-left:-150px;position:absolute;top:0;width:300px}.device-google-pixel-2-xl .device-header::after,.device-google-pixel-2-xl .device-header::before{background:#333;border-radius:3px;content:"";height:6px;left:50%;margin-left:-73px;margin-top:-3px;position:absolute;width:146px}.device-google-pixel-2-xl .device-header::after{top:24px}.device-google-pixel-2-xl .device-header::before{bottom:28px}.device-google-pixel-2-xl .device-sensors{background:#333;border-radius:7px;height:14px;left:54px;margin-top:-7px;position:absolute;top:36px;width:14px}.device-google-pixel-2-xl .device-btns{background:#cfcfcf;height:102px;position:absolute;right:-3px;top:306px;width:3px}.device-google-pixel-2-xl .device-power{background:#cfcfcf;height:58px;position:absolute;right:-3px;top:194px;width:3px}.device-google-pixel{height:744px;width:360px}.device-google-pixel .device-frame{background:#f7f7f8;border-radius:54px;box-shadow:inset 0 0 0 2px #c8cacb,inset 0 0 0 6px #e2e3e4,inset 0 0 0 10px #fff;height:744px;padding:82px 18px 86px 18px;width:360px}.device-google-pixel .device-content{border:2px solid #222;border-radius:2px;height:576px;width:324px}.device-google-pixel .device-stripe{border-top:6px solid rgba(51,51,51,.15);bottom:0;left:254px;position:absolute;top:0;width:8px}.device-google-pixel .device-stripe::after,.device-google-pixel .device-stripe::before{border:solid rgba(51,51,51,.15);border-width:0 6px;content:"";height:10px;left:-254px;position:absolute;width:360px;z-index:9}.device-google-pixel .device-stripe::after{top:60px}.device-google-pixel .device-stripe::before{bottom:46px}.device-google-pixel .device-sensors{background:#ddd;border-radius:2.5px;height:5px;left:50%;margin-left:-39px;margin-top:-2.5px;position:absolute;top:41px;width:78px}.device-google-pixel .device-sensors::after,.device-google-pixel .device-sensors::before{background:#333;border-radius:6px;content:"";position:absolute}.device-google-pixel .device-sensors::after{height:12px;left:50%;margin-left:-14px;top:21.5px;width:28px}.device-google-pixel .device-sensors::before{height:10px;left:-81px;margin-top:-5px;top:50%;width:10px}.device-google-pixel .device-btns{background:#c8cacb;height:102px;position:absolute;right:-2px;top:298px;width:3px}.device-google-pixel .device-power{background:#c8cacb;height:50px;position:absolute;right:-2px;top:184px;width:3px}.device-google-pixel.device-black .device-frame{background:#211d1c;box-shadow:inset 0 0 0 2px #363635,inset 0 0 0 6px #6a6967,inset 0 0 0 10px #3d3533}.device-google-pixel.device-black .device-stripe,.device-google-pixel.device-black .device-stripe::after,.device-google-pixel.device-black .device-stripe::before{border-color:rgba(13,13,13,.35)}.device-google-pixel.device-black .device-sensors{background:#444}.device-google-pixel.device-black .device-sensors::after{background:#0d0d0d}.device-google-pixel.device-black .device-btns,.device-google-pixel.device-black .device-btns::after,.device-google-pixel.device-black .device-btns::before{background:#363635}.device-google-pixel.device-black .device-power{background:#363635}.device-google-pixel.device-blue .device-frame{box-shadow:inset 0 0 0 2px #2a5aff,inset 0 0 0 6px #7695ff,inset 0 0 0 10px #fff}.device-google-pixel.device-blue .device-btns,.device-google-pixel.device-blue .device-btns::after,.device-google-pixel.device-blue .device-btns::before{background:#2a5aff}.device-google-pixel.device-blue .device-power{background:#2a5aff}.device-galaxy-s8{height:828px;width:380px}.device-galaxy-s8 .device-frame{background:#222;border:solid #cfcfcf;border-radius:55px;border-width:5px 0;box-shadow:inset 0 0 0 2px #9c9c9c;height:828px;padding:48px 10px 40px 10px;width:380px}.device-galaxy-s8 .device-content{border:2px solid #222;border-radius:34px;height:740px;width:360px}.device-galaxy-s8 .device-stripe::after,.device-galaxy-s8 .device-stripe::before{border:solid rgba(51,51,51,.15);border-width:5px 0;content:"";height:828px;position:absolute;top:0;width:6px;z-index:9}.device-galaxy-s8 .device-stripe::after{left:48px}.device-galaxy-s8 .device-stripe::before{right:48px}.device-galaxy-s8 .device-sensors{background:#666;border-radius:3px;height:6px;left:50%;margin-left:-24px;margin-top:-3px;position:absolute;top:32px;width:48px}.device-galaxy-s8 .device-sensors::after,.device-galaxy-s8 .device-sensors::before{background:#666;border-radius:50%;content:"";position:absolute;top:50%}.device-galaxy-s8 .device-sensors::after{box-shadow:-192px 0 #333,-174px 0 #333,-240px 0 #333;height:8px;margin-top:-4px;right:-90px;width:8px}.device-galaxy-s8 .device-sensors::before{box-shadow:186px 0 #666;height:12px;left:-90px;margin-top:-6px;width:12px}.device-galaxy-s8 .device-btns{background:#9c9c9c;border-radius:3px 0 0 3px;height:116px;left:-3px;position:absolute;top:144px;width:3px}.device-galaxy-s8 .device-btns::after{background:#9c9c9c;border-radius:3px 0 0 3px;content:"";height:54px;left:0;position:absolute;top:164px;width:3px}.device-galaxy-s8 .device-power{background:#9c9c9c;border-radius:0 3px 3px 0;height:54px;position:absolute;right:-3px;top:260px;width:3px}.device-galaxy-s8.device-blue .device-frame{border-color:#a3c5e8;box-shadow:inset 0 0 0 2px #5192d4}.device-galaxy-s8.device-blue .device-stripe::after,.device-galaxy-s8.device-blue .device-stripe::before{border-color:rgba(255,255,255,.35)}.device-galaxy-s8.device-blue .device-btns,.device-galaxy-s8.device-blue .device-btns::after{background:#5192d4}.device-galaxy-s8.device-blue .device-power{background:#5192d4}.device-ipad-pro{height:804px;width:560px}.device-ipad-pro .device-frame{background:#fff;border-radius:38px;box-shadow:inset 0 0 0 2px #c8cacb,inset 0 0 0 6px #e2e3e4;height:804px;padding:62px 25px;width:560px}.device-ipad-pro .device-content{border:2px solid #222;border-radius:2px;height:680px;width:510px}.device-ipad-pro .device-header{border:2px solid #c8cacb;border-radius:50%;bottom:17px;height:34px;left:50%;margin-left:-17px;position:absolute;width:34px}.device-ipad-pro .device-sensors{background:#666;border-radius:50%;height:10px;left:50%;margin-left:-5px;margin-top:-5px;position:absolute;top:34px;width:10px}.device-ipad-pro.device-gold .device-frame{box-shadow:inset 0 0 0 2px #e4b08a,inset 0 0 0 6px #f7e8dd}.device-ipad-pro.device-gold .device-header{border-color:#e4b08a}.device-ipad-pro.device-rosegold .device-frame{box-shadow:inset 0 0 0 2px #f6a69a,inset 0 0 0 6px #facfc9}.device-ipad-pro.device-rosegold .device-header{border-color:#f6a69a}.device-ipad-pro.device-spacegray .device-frame{background:#222;box-shadow:inset 0 0 0 2px #818187,inset 0 0 0 6px #9b9ba0}.device-ipad-pro.device-spacegray .device-header{border-color:#818187}.device-surface-pro{height:394px;width:561px}.device-surface-pro .device-frame{background:#0d0d0d;border-radius:10px;box-shadow:inset 0 0 0 2px #c8c8c8;height:394px;margin:0 auto;padding:26px 24px;width:561px}.device-surface-pro .device-content{border:2px solid #121212;border-radius:2px;height:342px;width:513px}.device-surface-pro .device-btns::after,.device-surface-pro .device-btns::before{background:#c8c8c8;content:"";height:2px;position:absolute;top:-2px}.device-surface-pro .device-btns::after{left:48px;width:26px}.device-surface-pro .device-btns::before{left:94px;width:48px}.device-surface-pro .device-sensors{background:#333;border-radius:50%;height:6px;left:50%;margin-left:-3px;margin-top:-3px;position:absolute;top:14px;width:6px}.device-surface-book{height:424px;width:728px}.device-surface-book .device-frame{background:#0d0d0d;border-radius:12px;box-shadow:inset 0 0 0 2px #c8c8c8;height:408px;margin:0 auto;padding:24px 22px;position:relative;width:584px}.device-surface-book .device-content{border:2px solid #121212;border-radius:2px;height:360px;width:540px}.device-surface-book .device-btns::after,.device-surface-book .device-btns::before{background:#c8c8c8;content:"";height:2px;position:absolute;top:-2px}.device-surface-book .device-btns::after{left:122px;width:20px}.device-surface-book .device-btns::before{left:168px;width:44px}.device-surface-book .device-power{background:linear-gradient(to bottom,#eee,#c8c8c8);border:solid #c8c8c8;border-radius:2px;border-width:0 2px;height:12px;margin-top:4px;position:relative;width:728px}.device-surface-book .device-power::after,.device-surface-book .device-power::before{content:"";position:absolute}.device-surface-book .device-power::after{background:radial-gradient(circle at center,#eee 0,#eee 95%,#a2a1a1 100%);border-radius:0 0 6px 6px;height:8px;left:50%;margin-left:-125px;top:0;width:250px;z-index:1}.device-surface-book .device-power::before{background:linear-gradient(to bottom,#eee,#c8c8c8);border-radius:2px 2px 0 0;bottom:12px;height:8px;left:50%;margin-left:-292px;width:584px}
+	.device-macbook-pro{height:444px;width:740px}.device-macbook-pro .device-frame{background:#0d0d0d;border-radius:20px;box-shadow:inset 0 0 0 2px #c8cacb;height:428px;margin:0 auto;padding:29px 19px 39px 19px;position:relative;width:614px;z-index:1}.device-macbook-pro .device-frame::after{background:#272626;border-radius:0 0 20px 20px;bottom:2px;content:"";height:26px;left:2px;position:absolute;width:610px}.device-macbook-pro .device-frame::before{bottom:10px;color:#c8cacb;content:"MacBook Pro";font-size:12px;height:16px;left:50%;line-height:16px;margin-left:-100px;position:absolute;text-align:center;width:200px;z-index:1}
+	.device-macbook-pro .device-content{border:2px solid #121212;border-radius:2px;height:360px;width:576px}.device-macbook-pro .device-power{background:#e2e3e4;border:solid #d5d6d8;border-radius:2px 2px 0 0;border-width:2px 4px 0 4px;height:14px;margin-top:-10px;position:relative;width:740px;z-index:120}.device-macbook-pro .device-power::after,.device-macbook-pro .device-power::before{content:"";position:absolute}.device-macbook-pro .device-power::after{background:#d5d6d8;border-radius:0 0 10px 10px;box-shadow:inset 0 0 4px 2px #babdbf;height:10px;left:50%;margin-left:-60px;top:-2px;width:120px}.device-macbook-pro .device-power::before{background:#a0a3a7;border-radius:0 0 180px 180px/0 0 12px 12px;box-shadow:inset 0 -2px 6px 0 #474a4d;height:12px;left:-4px;margin:0 auto;top:10px;width:740px}.device-macbook-pro.device-spacegray .device-frame{box-shadow:inset 0 0 0 2px #767a7d}.device-macbook-pro.device-spacegray .device-power{background:#909496;border-color:#767a7d}.device-macbook-pro.device-spacegray .device-power::after{background:#83878a;box-shadow:inset 0 0 4px 2px #6a6d70}.device-macbook-pro.device-spacegray .device-power::before{background:#515456;box-shadow:inset 0 -2px 6px 0 #000}.device-macbook{height:432px;width:740px}.device-macbook .device-frame{background:#0d0d0d;border-radius:20px;box-shadow:inset 0 0 0 2px #c8cacb;height:428px;margin:0 auto;padding:29px 19px 39px 19px;position:relative;width:614px}.device-macbook .device-frame::after{background:#272626;border-radius:0 0 20px 20px;bottom:2px;content:"";height:26px;left:2px;position:absolute;width:610px}.device-macbook .device-frame::before{bottom:10px;color:#c8cacb;content:"MacBook";font-size:12px;height:16px;left:50%;line-height:16px;margin-left:-100px;position:absolute;text-align:center;width:200px;z-index:1}.device-macbook .device-content{border:2px solid #121212;border-radius:2px;height:360px;width:576px}.device-macbook .device-power{background:#e2e3e4;border:solid #d5d6d8;border-radius:2px 2px 0 0;border-width:0 4px;height:4px;margin-top:-10px;position:relative;width:740px;z-index:9}.device-macbook .device-power::after,.device-macbook .device-power::before{content:"";position:absolute}.device-macbook .device-power::after{background:radial-gradient(circle at center,#e2e3e4 0,#e2e3e4 85%,#a0a3a7 100%);border:solid #adb0b3;border-width:0 2px;height:4px;left:50%;margin-left:-60px;width:120px}.device-macbook .device-power::before{background:#a0a3a7;border-radius:0 0 180px 180px/0 0 10px 10px;box-shadow:inset 0 -2px 6px 0 #474a4d;height:10px;left:-4px;margin:0 auto;top:4px;width:740px}.device-macbook.device-gold .device-frame{box-shadow:inset 0 0 0 2px #edccb4}.device-macbook.device-gold .device-power{background:#f7e8dd;border-color:#edccb4}.device-macbook.device-gold .device-power::after{background:radial-gradient(circle at center,#f7e8dd 0,#f7e8dd 85%,#dfa276 100%);border-color:#e4b08a}.device-macbook.device-gold .device-power::before{background:#edccb4;box-shadow:inset 0 -2px 6px 0 #83491f}.device-macbook.device-rosegold .device-frame{box-shadow:inset 0 0 0 2px #f6a69a}.device-macbook.device-rosegold .device-power{background:#facfc9;border-color:#f6a69a}.device-macbook.device-rosegold .device-power::after{background:radial-gradient(circle at center,#facfc9 0,#facfc9 85%,#ef6754 100%);border-color:#f6a69a}.device-macbook.device-rosegold .device-power::before{background:#f6a69a;box-shadow:inset 0 -2px 6px 0 #851b0c}.device-macbook.device-spacegray .device-frame{box-shadow:inset 0 0 0 2px #767a7d}.device-macbook.device-spacegray .device-power{background:#909496;border-color:#767a7d}.device-macbook.device-spacegray .device-power::after{background:radial-gradient(circle at center,#909496 0,#909496 85%,#515456 100%);border-color:#5d6163}.device-macbook.device-spacegray .device-power::before{background:#515456;box-shadow:inset 0 -2px 6px 0 #000}.device-surface-studio{height:506px;width:640px}.device-surface-studio .device-frame{background:#0d0d0d;border-radius:10px;box-shadow:inset 0 0 0 2px #000;height:440px;padding:20px;width:640px}.device-surface-studio .device-content{border:2px solid #121212;border-radius:2px;height:400px;width:600px}.device-surface-studio .device-stripe{background:#444;border-radius:0 0 2px 2px;bottom:0;height:4px;left:50%;margin-left:-117px;position:absolute;width:234px}.device-surface-studio .device-stripe::after,.device-surface-studio .device-stripe::before{content:"";left:50%;position:absolute;top:-75px}.device-surface-studio .device-stripe::after{border:6px solid #d5d6d8;border-radius:0 0 18px 18px;border-top:0;box-shadow:inset 0 0 0 4px #c8cacb;height:60px;margin-left:-140px;width:280px;z-index:-1}.device-surface-studio .device-stripe::before{border:15px solid #e2e3e4;border-radius:0 0 4px 4px;border-top:0;height:70px;margin-left:-150px;width:300px;z-index:-2}.device-surface-studio .device-power{background:#eff0f0;border:solid #e2e3e4;border-radius:0 0 2px 2px;border-width:0 4px 2px 4px;height:32px;margin:30px auto 0 auto;position:relative;width:250px}.device-surface-studio .device-power::after{background:#adb0b3;content:"";height:2px;left:-4px;position:absolute;top:4px;width:250px}.device-imac-pro{height:484px;width:624px}.device-imac-pro .device-frame{background:#0d0d0d;border-radius:18px;box-shadow:inset 0 0 0 2px #080808;height:428px;padding:24px 24px 80px 24px;position:relative;width:624px}.device-imac-pro .device-frame::after{background:#2f2e33;border-radius:0 0 18px 18px;bottom:2px;content:"";height:54px;left:2px;position:absolute;width:620px}.device-imac-pro .device-frame::before{bottom:15px;color:#0d0d0d;content:"";font-size:24px;height:24px;left:50%;line-height:24px;margin-left:-100px;position:absolute;text-align:center;width:200px;z-index:9}.device-imac-pro .device-content{border:2px solid #121212;border-radius:2px;height:324px;width:576px}.device-imac-pro .device-power::after,.device-imac-pro .device-power::before{content:""}.device-imac-pro .device-power::after{background:#222225;border-radius:2px;height:6px;margin:0 auto;position:relative;width:180px}.device-imac-pro .device-power::before{border:solid transparent;border-bottom-color:#333;border-width:0 8px 50px 8px;height:50px;margin:0 auto;position:relative;width:130px}.device-apple-watch{height:234px;width:200px}.device-apple-watch .device-frame{background:#0d0d0d;border-radius:40px;box-shadow:inset 0 0 2px 2px #adb0b3,inset 0 0 0 6px #e2e3e4,inset 0 0 0 8px #e2e3e4;height:234px;padding:32px;position:relative;width:200px}.device-apple-watch .device-frame::after{border-radius:30px;box-shadow:inset 0 0 25px 0 rgba(255,255,255,.75);content:"";height:216px;left:9px;position:absolute;top:9px;width:182px}.device-apple-watch .device-content{border:2px solid #121212;border-radius:2px;height:170px;width:136px}.device-apple-watch .device-btns{background:#e2e3e4;border-left:2px solid #adb0b3;border-radius:8px 4px 4px 8px/20px 4px 4px 20px;box-shadow:inset 0 0 2px 2px #adb0b3;height:44px;position:absolute;right:-10px;top:52px;width:16px;z-index:9}.device-apple-watch .device-btns::after{background:#e2e3e4;border-radius:4px 2px 2px 4px/10px 2px 2px 10px;box-shadow:inset 0 0 1px 2px #adb0b3;content:"";height:66px;position:absolute;right:6px;top:68px;width:8px}.device-apple-watch .device-btns::before{background:#adb0b3;box-shadow:0 -16px #adb0b3,0 -12px #adb0b3,0 -8px #adb0b3,0 -4px #adb0b3,0 4px #adb0b3,0 8px #adb0b3,0 12px #adb0b3,0 16px #adb0b3;content:"";height:2px;margin-top:-1px;position:absolute;right:0;top:50%;width:6px};width:6px}
+
+</style>
+<style type='text/css'>img#wpstats{display:none}</style>
+	<meta name="generator" content="Powered by Slider Revolution 6.5.23 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="https://jakesinclair.ca/wp-content/uploads/2021/09/JSlogo-150x150.png" sizes="32x32" />
+<link rel="icon" href="https://jakesinclair.ca/wp-content/uploads/2021/09/JSlogo-300x300.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://jakesinclair.ca/wp-content/uploads/2021/09/JSlogo-300x300.png" />
+<meta name="msapplication-TileImage" content="https://jakesinclair.ca/wp-content/uploads/2021/09/JSlogo-300x300.png" />
+<script>function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;
+				try {
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) || (e.l=="fullwidth" || e.layout=="fullwidth") ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);
+					if(e.layout==="fullscreen" || e.l==="fullscreen")
+						newh = Math.max(e.mh,window.RSIH);
+					else{
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,
+							sl;
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}
+					var el = document.getElementById(e.c);
+					if (el!==null && el) el.style.height = newh+"px";
+					el = document.getElementById(e.c+"_wrapper");
+					if (el!==null && el) {
+						el.style.height = newh+"px";
+						el.style.display = "block";
+					}
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}
+			//});
+		  };</script>
+<link rel='stylesheet' id='oxygen-cache-353-css'  href='//jakesinclair.ca/wp-content/uploads/oxygen/css/353.css?cache=1648863960&#038;ver=6.0.9' type='text/css' media='all' />
+<link rel='stylesheet' id='oxygen-cache-893-css'  href='//jakesinclair.ca/wp-content/uploads/oxygen/css/893.css?cache=1648857645&#038;ver=6.0.9' type='text/css' media='all' />
+<link rel='stylesheet' id='oxygen-cache-821-css'  href='//jakesinclair.ca/wp-content/uploads/oxygen/css/821.css?cache=1648857620&#038;ver=6.0.9' type='text/css' media='all' />
+<link rel='stylesheet' id='oxygen-universal-styles-css'  href='//jakesinclair.ca/wp-content/uploads/oxygen/css/universal.css?cache=1649968297&#038;ver=6.0.9' type='text/css' media='all' />
+<link rel='stylesheet' id='automaticcss-oxygen-css'  href='https://jakesinclair.ca/wp-content/uploads/automatic-css/automatic-oxygen.css?ver=1647354578' type='text/css' media='all' />
+<!-- END OF WP_HEAD() -->
+</head>
+<body class="error404  wp-embed-responsive oxygen-body" >
+
+
+
+	<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg>					
+		<div id="-preloader-306-353" class="oxy-preloader "><div class="oxy-preloader_fadein oxy-inner-content" data-again="never_show_again" data-wait="load" data-wait-sec="10" ><div id="div_block-321-353" class="ct-div-block height--full" >
+		<div id="-lottie-animation-324-353" class="oxy-lottie-animation "><lottie-player renderer="svg" id="-lottie-animation-324-353-lottie" data-src="https://assets2.lottiefiles.com/private_files/lf30_e2ealmdb.json" mode="bounce" data-offset=""  data-click-trigger="self" data-trigger="always" data-start="0"  data-end="60" speed="1"  autoplay loop    ></lottie-player></div>
+
+		
+		<div id="-lottie-animation-328-353" class="oxy-lottie-animation "><lottie-player renderer="svg" id="-lottie-animation-328-353-lottie" data-src="https://assets2.lottiefiles.com/private_files/lf30_e2ealmdb.json" mode="bounce" data-offset=""  data-click-trigger="self" data-trigger="always" data-start="0"  data-end="60" speed="1"  autoplay loop    ></lottie-player></div>
+
+		</div></div></div>
+
+		<script type="text/javascript">
+			!function(e){if("CTFrontendBuilder"!=e("html").attr("ng-app")){var a=e("#-preloader-306-353").find(".oxy-preloader_fadein"),o=1e3*a.data("wait-sec");switch(a.data("wait")){case"load":e(window).on("load",function(){t()});break;case "click": e("#-preloader-306-353").on("click", function () { t(); }); case"webfont":break;case"manual":setTimeout(function(){t()},o)}!function(a){e(a);!function(a){var e=jQuery(a),o=e.find(".oxy-preloader_fadein"),t=e[0].id,n=(new Date).getTime(),i=!(!localStorage||!localStorage["oxy-"+t+"-last-shown-time"])&&JSON.parse(localStorage["oxy-"+t+"-last-shown-time"]);switch(o.data("again")){case"never_show_again":if(!1!==i)return}localStorage&&(localStorage["oxy-"+t+"-last-shown-time"]=JSON.stringify(n));e.css({display:"flex"})}(a)}("#-preloader-306-353")}function t(){e("#-preloader-306-353").addClass("oxy-preloader_hidden")}}(jQuery);			</script>
+		<div id="-burger-trigger-20-353" class="oxy-burger-trigger header__button nav-btn-js menucircle "><button data-touch="click"  class="hamburger hamburger--arrow " type="button"><span class="hamburger-box"><span class="hamburger-inner"></span></span></button></div>
+
+		<div id="div_block-299-353" class="ct-div-block" ></div><div id="code_block-11-353" class="ct-code-block" ><script>
+			document.addEventListener("DOMContentLoaded", () => {
+				const revealerNav = window.revealer({
+					revealElementSelector: ".nav-js",
+					options: {
+						anchorSelector: ".nav-btn-js",
+					},
+				});
+
+				const actionBtn = document.querySelector(".nav-btn-js");
+				actionBtn.addEventListener("click", () => {
+					if (!revealerNav.isRevealed()) {
+						revealerNav.reveal();
+						actionBtn.setAttribute("data-open", true);
+					} else {
+						revealerNav.hide();
+						actionBtn.setAttribute("data-open", false);
+					}
+				});
+			});
+		</script></div><div id="code_block-84-353" class="ct-code-block" > <div class="load-container">
+            <div class="loading-screen"></div>
+        </div></div><div id="code_block-85-353" class="ct-code-block" >    <!--<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>-->
+    <script src="https://unpkg.com/@barba/core"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.2.4/gsap.min.js"></script>
+    <!--<script src="main.js"></script>--></div><div id="div_block-22-353" class="ct-div-block header__nav nav-js owl--m" >
+		<div id="-slide-menu-28-353" class="oxy-slide-menu ignore__exit "><nav class="oxy-slide-menu_inner"  data-currentopen="disable" data-duration="300" data-start="open" data-icon="Lineariconsicon-plus-circle" data-trigger-selector=".oxy-burger-trigger">  <ul id="menu-header-menu" class="oxy-slide-menu_list"><li id="menu-item-620" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-620"><a href="https://jakesinclair.ca/">HOME</a></li>
+<li id="menu-item-827" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-827"><a href="https://jakesinclair.ca/about/">ABOUT</a></li>
+<li id="menu-item-579" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-579"><a href="#">SERVICES</a>
+<ul class="sub-menu">
+	<li id="menu-item-709" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-709"><a href="https://jakesinclair.ca/digital/">DIGITAL DESIGN</a></li>
+	<li id="menu-item-710" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-710"><a href="https://jakesinclair.ca/interactive/">INTERACTIVE DESIGN</a></li>
+	<li id="menu-item-711" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-711"><a href="https://jakesinclair.ca/print/">PRINT DESIGN</a></li>
+	<li id="menu-item-849" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-849"><a href="https://jakesinclair.ca/branding/">BRAND DESIGN</a></li>
+	<li id="menu-item-712" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-712"><a href="https://jakesinclair.ca/video/">VIDEO + MOTION</a></li>
+</ul>
+</li>
+<li id="menu-item-12" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12"><a href="#">WORK</a>
+<ul class="sub-menu">
+	<li id="menu-item-733" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-733"><a href="https://jakesinclair.ca/musiccity/">MUSIC CITY CANADA</a></li>
+	<li id="menu-item-619" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-619"><a href="https://jakesinclair.ca/thebelfort/">THE BELFORT</a></li>
+	<li id="menu-item-732" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-732"><a href="https://jakesinclair.ca/otherwisefine/">OTHERWISE FINE</a></li>
+	<li id="menu-item-834" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-834"><a href="https://jakesinclair.ca/medtech/">MEDTECH</a></li>
+	<li id="menu-item-833" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-833"><a href="https://jakesinclair.ca/lexus/">LEXUS</a></li>
+	<li id="menu-item-826" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-826"><a href="https://jakesinclair.ca/cdj/">CDJ SHOW</a></li>
+</ul>
+</li>
+<li id="menu-item-725" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-725"><a href="https://jakesinclair.ca/contact/">CONTACT</a></li>
+</ul></nav></div>
+
+		<div id="div_block-29-353" class="ct-div-block no-exit"  data-tilt-ful=""><a id="link-54-353" class="ct-link" href="https://www.linkedin.com/in/fnlyfms/" target="_blank"  ><h1 id="headline-31-353" class="ct-headline">LINKEDIN</h1></a><a id="link-55-353" class="ct-link ignore__exit" href="https://jakesinclair.ca/resume/"   ><h1 id="headline-30-353" class="ct-headline">RESUME</h1></a><a id="div_block-34-353" class="ct-link" href="https://open.spotify.com/playlist/0ZrLMTMgv2u5HeCNl1MRLJ?si=c67ed093d1654d74" target="_blank"  ><h1 id="headline-33-353" class="ct-headline">WFH PLAYLIST</h1><div id="fancy_icon-36-353" class="ct-fancy-icon" ><svg id="svg-fancy_icon-36-353"><use xlink:href="#FontAwesomeicon-spotify"></use></svg></div></a></div></div><div id="code_block-9-893" class="ct-code-block" ><div id="rgbKineticSlider" class="rgbKineticSlider"></div>
+
+
+
+
+<script src="https://cdn.jsdelivr.net/gh/hmongouachon/rgbKineticSlider/js/libs/TweenMax.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/hmongouachon/rgbKineticSlider/js/libs/imagesLoaded.pkgd.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/hmongouachon/rgbKineticSlider/js/libs/pixi.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/hmongouachon/rgbKineticSlider/js/libs/pixi-filters.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/hmongouachon/rgbKineticSlider/js/rgbKineticSlider.js"></script> 
+</div><section id="section-2-893" class=" ct-section height--full center--all" ><div class="ct-section-inner-wrap"><div id="div_block-3-893" class="ct-div-block " ><div id="div_block-4-893" class="ct-div-block" ><img id="image-6-893" alt="" src="https://jakesinclair.ca/wp-content/uploads/2022/03/error.png" class="ct-image" /></div><div id="div_block-5-893" class="ct-div-block owl--l width--m pad--l" ><h1 id="headline-7-893" class="ct-headline">SORRY, THIS IS NOT THE PAGE YOU'RE LOOKING FOR :'(</h1><a id="link_button-15-893" class="ct-link-button btn--m btn--white" href="https://jakesinclair.ca/"   >Go Home.</a></div></div></div></section><section id="section-42-353" class=" ct-section " ><div class="ct-section-inner-wrap"><div id="div_block-252-353" class="ct-div-block pad--m owl--l self--stretch hide--desktop" ><div id="div_block-253-353" class="ct-div-block " ><img id="image-254-353" alt="" src="https://jakesinclair.ca/wp-content/uploads/2021/12/signature.png" class="ct-image" /></div><div id="div_block-255-353" class="ct-div-block self--stretch owl--xs no-exit" ><div id="div_block-338-353" class="ct-div-block gap--m" ><a id="link-339-353" class="ct-link" href="https://www.linkedin.com/in/fnlyfms/" target="_blank"  ><div id="fancy_icon-340-353" class="ct-fancy-icon social--icon" ><svg id="svg-fancy_icon-340-353"><use xlink:href="#FontAwesomeicon-linkedin"></use></svg></div></a><a id="link-341-353" class="ct-link" href="https://open.spotify.com/artist/0n255T84TbJje4U9RcKHGP?si=RmEOOZ12Rm2_x9lpVW5Ezg" target="_blank"  ><div id="fancy_icon-342-353" class="ct-fancy-icon social--icon" ><svg id="svg-fancy_icon-342-353"><use xlink:href="#FontAwesomeicon-spotify"></use></svg></div></a><a id="link-343-353" class="ct-link" href="https://instagram.com/fnlyfms" target="_blank"><div id="fancy_icon-344-353" class="ct-fancy-icon social--icon" ><svg id="svg-fancy_icon-344-353"><use xlink:href="#FontAwesomeicon-instagram"></use></svg></div></a></div><a id="link_text-331-353" class="ct-link-text text--s no-exit" href="/cdn-cgi/l/email-protection#660e030a0a09260c070d03150f08050a070f14480507"><span class="__cf_email__" data-cfemail="224a474e4e4d6248434947514b4c414e434b500c4143">[email&#160;protected]</span></a></div></div><div id="div_block-112-353" class="ct-div-block grid--l-1 grid--4 width--xxl" ><div id="div_block-116-353" class="ct-div-block order--last-l no-exit" ><div id="div_block-262-353" class="ct-div-block owl--xs no-exit" ><img id="image-214-353" alt="" src="https://jakesinclair.ca/wp-content/uploads/2021/12/signature.png" class="ct-image" /><div id="div_block-263-353" class="ct-div-block gap--m" ><a id="link-333-353" class="ct-link" href="https://www.linkedin.com/in/fnlyfms/" target="_blank"  ><div id="fancy_icon-334-353" class="ct-fancy-icon social--icon" ><svg id="svg-fancy_icon-334-353"><use xlink:href="#FontAwesomeicon-linkedin"></use></svg></div></a><a id="link-336-353" class="ct-link" href="https://open.spotify.com/artist/0n255T84TbJje4U9RcKHGP?si=RmEOOZ12Rm2_x9lpVW5Ezg" target="_blank"  ><div id="fancy_icon-265-353" class="ct-fancy-icon social--icon" ><svg id="svg-fancy_icon-265-353"><use xlink:href="#FontAwesomeicon-spotify"></use></svg></div></a><a id="link-337-353" class="ct-link" href="https://instagram.com/fnlyfms" target="_blank"><div id="fancy_icon-266-353" class="ct-fancy-icon social--icon" ><svg id="svg-fancy_icon-266-353"><use xlink:href="#FontAwesomeicon-instagram"></use></svg></div></a></div><a id="link_text-267-353" class="ct-link-text text--s no-exit" href="/cdn-cgi/l/email-protection#d3bbb6bfbfbc93b9b2b8b6a0babdb0bfb2baa1fdb0b2"><span class="__cf_email__" data-cfemail="0d65686161624d676c66687e64636e616c647f236e6c">[email&#160;protected]</span></a></div></div><div id="div_block-115-353" class="ct-div-block col-span--3 pad--xl" ><div id="div_block-199-353" class="ct-div-block " ><h2 id="headline-303-353" class="ct-headline ">WORK</h2><div id="div_block-201-353" class="ct-div-block " ><a id="link_text-202-353" class="ct-link-text text--s" href="https://jakesinclair.ca/musiccity/"   >Music City Canada</a><a id="link_text-203-353" class="ct-link-text text--s" href="https://jakesinclair.ca/thebelfort/"   >The Belfort</a><a id="link_text-204-353" class="ct-link-text text--s" href="https://jakesinclair.ca/otherwisefine/"   >Otherwise Fine</a><a id="link_text-205-353" class="ct-link-text text--s" href="https://jakesinclair.ca/medtech/"   >Medtech Group</a><a id="link_text-206-353" class="ct-link-text text--s" href="https://jakesinclair.ca/lexus/"   >Lexus</a><a id="link_text-305-353" class="ct-link-text text--s" href="https://jakesinclair.ca/cdj/"   >CDJ Show</a></div></div><div id="div_block-190-353" class="ct-div-block " ><h2 id="headline-304-353" class="ct-headline ">SERVICES</h2><div id="div_block-192-353" class="ct-div-block" ><a id="link_text-193-353" class="ct-link-text text--s" href="https://jakesinclair.ca/digital/"   >Digital Design</a><a id="link_text-194-353" class="ct-link-text text--s" href="https://jakesinclair.ca/interactive/"   >Interactive Design</a><a id="link_text-195-353" class="ct-link-text text--s" href="https://jakesinclair.ca/print/"   >Print Design</a><a id="link_text-345-353" class="ct-link-text text--s" href="https://jakesinclair.ca/branding/"   >Brand Design</a><a id="link_text-197-353" class="ct-link-text text--s" href="https://jakesinclair.ca/video/"   >Video + Motion</a></div></div><div id="div_block-291-353" class="ct-div-block " ><div id="div_block-293-353" class="ct-div-block " ><a id="link_text-294-353" class="ct-link-text text--s" href="https://jakesinclair.ca/"   >Home</a><a id="link_text-295-353" class="ct-link-text text--s" href="https://jakesinclair.ca/about/"   >About</a><a id="link_text-297-353" class="ct-link-text text--s" href="https://jakesinclair.ca/resume/"   >Resume</a><a id="link_text-298-353" class="ct-link-text text--s" href="https://jakesinclair.ca/contact/"   >Contact</a></div></div></div></div></div></section>	<!-- WP_FOOTER -->
+
+		<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+			window.RS_MODULES = window.RS_MODULES || {};
+			window.RS_MODULES.modules = window.RS_MODULES.modules || {};
+			window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
+			window.RS_MODULES.defered = true;
+			window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
+			window.RS_MODULES.type = 'compiled';
+		</script>
+		<script id='script-61940f9bccb8c-js' type='text/javascript'>
+var VanillaTilt = (function () {
+'use strict';
+
+/**
+ * Created by Sergiu Șandor (micku7zu) on 1/27/2017.
+ * Original idea: https://github.com/gijsroge/tilt.js
+ * MIT License.
+ * Version 1.7.2
+ */
+
+class VanillaTilt {
+  constructor(element, settings = {}) {
+    if (!(element instanceof Node)) {
+      throw ("Can't initialize VanillaTilt because " + element + " is not a Node.");
+    }
+
+    this.width = null;
+    this.height = null;
+    this.clientWidth = null;
+    this.clientHeight = null;
+    this.left = null;
+    this.top = null;
+
+    // for Gyroscope sampling
+    this.gammazero = null;
+    this.betazero = null;
+    this.lastgammazero = null;
+    this.lastbetazero = null;
+
+    this.transitionTimeout = null;
+    this.updateCall = null;
+    this.event = null;
+
+    this.updateBind = this.update.bind(this);
+    this.resetBind = this.reset.bind(this);
+
+    this.element = element;
+    this.settings = this.extendSettings(settings);
+
+    this.reverse = this.settings.reverse ? -1 : 1;
+    this.glare = VanillaTilt.isSettingTrue(this.settings.glare);
+    this.glarePrerender = VanillaTilt.isSettingTrue(this.settings["glare-prerender"]);
+    this.fullPageListening = VanillaTilt.isSettingTrue(this.settings["full-page-listening"]);
+    this.gyroscope = VanillaTilt.isSettingTrue(this.settings.gyroscope);
+    this.gyroscopeSamples = this.settings.gyroscopeSamples;
+
+    this.elementListener = this.getElementListener();
+
+    if (this.glare) {
+      this.prepareGlare();
+    }
+
+    if (this.fullPageListening) {
+      this.updateClientSize();
+    }
+
+    this.addEventListeners();
+    this.reset();
+    this.updateInitialPosition();
+  }
+
+  static isSettingTrue(setting) {
+    return setting === "" || setting === true || setting === 1;
+  }
+
+  /**
+   * Method returns element what will be listen mouse events
+   * @return {Node}
+   */
+  getElementListener() {
+    if (this.fullPageListening) {
+      return window.document;
+    }
+
+    if (typeof this.settings["mouse-event-element"] === "string") {
+      const mouseEventElement = document.querySelector(this.settings["mouse-event-element"]);
+
+      if (mouseEventElement) {
+        return mouseEventElement;
+      }
+    }
+
+    if (this.settings["mouse-event-element"] instanceof Node) {
+      return this.settings["mouse-event-element"];
+    }
+
+    return this.element;
+  }
+
+  /**
+   * Method set listen methods for this.elementListener
+   * @return {Node}
+   */
+  addEventListeners() {
+    this.onMouseEnterBind = this.onMouseEnter.bind(this);
+    this.onMouseMoveBind = this.onMouseMove.bind(this);
+    this.onMouseLeaveBind = this.onMouseLeave.bind(this);
+    this.onWindowResizeBind = this.onWindowResize.bind(this);
+    this.onDeviceOrientationBind = this.onDeviceOrientation.bind(this);
+
+    this.elementListener.addEventListener("mouseenter", this.onMouseEnterBind);
+    this.elementListener.addEventListener("mouseleave", this.onMouseLeaveBind);
+    this.elementListener.addEventListener("mousemove", this.onMouseMoveBind);
+
+    if (this.glare || this.fullPageListening) {
+      window.addEventListener("resize", this.onWindowResizeBind);
+    }
+
+    if (this.gyroscope) {
+      window.addEventListener("deviceorientation", this.onDeviceOrientationBind);
+    }
+  }
+
+  /**
+   * Method remove event listeners from current this.elementListener
+   */
+  removeEventListeners() {
+    this.elementListener.removeEventListener("mouseenter", this.onMouseEnterBind);
+    this.elementListener.removeEventListener("mouseleave", this.onMouseLeaveBind);
+    this.elementListener.removeEventListener("mousemove", this.onMouseMoveBind);
+
+    if (this.gyroscope) {
+      window.removeEventListener("deviceorientation", this.onDeviceOrientationBind);
+    }
+
+    if (this.glare || this.fullPageListening) {
+      window.removeEventListener("resize", this.onWindowResizeBind);
+    }
+  }
+
+  destroy() {
+    clearTimeout(this.transitionTimeout);
+    if (this.updateCall !== null) {
+      cancelAnimationFrame(this.updateCall);
+    }
+
+    this.reset();
+
+    this.removeEventListeners();
+    this.element.vanillaTilt = null;
+    delete this.element.vanillaTilt;
+
+    this.element = null;
+  }
+
+  onDeviceOrientation(event) {
+    if (event.gamma === null || event.beta === null) {
+      return;
+    }
+
+    this.updateElementPosition();
+
+    if (this.gyroscopeSamples > 0) {
+      this.lastgammazero = this.gammazero;
+      this.lastbetazero = this.betazero;
+
+      if (this.gammazero === null) {
+        this.gammazero = event.gamma;
+        this.betazero = event.beta;
+      } else {
+        this.gammazero = (event.gamma + this.lastgammazero) / 2;
+        this.betazero = (event.beta + this.lastbetazero) / 2;
+      }
+
+      this.gyroscopeSamples -= 1;
+    }
+
+    const totalAngleX = this.settings.gyroscopeMaxAngleX - this.settings.gyroscopeMinAngleX;
+    const totalAngleY = this.settings.gyroscopeMaxAngleY - this.settings.gyroscopeMinAngleY;
+
+    const degreesPerPixelX = totalAngleX / this.width;
+    const degreesPerPixelY = totalAngleY / this.height;
+
+    const angleX = event.gamma - (this.settings.gyroscopeMinAngleX + this.gammazero);
+    const angleY = event.beta - (this.settings.gyroscopeMinAngleY + this.betazero);
+
+    const posX = angleX / degreesPerPixelX;
+    const posY = angleY / degreesPerPixelY;
+
+    if (this.updateCall !== null) {
+      cancelAnimationFrame(this.updateCall);
+    }
+
+    this.event = {
+      clientX: posX + this.left,
+      clientY: posY + this.top,
+    };
+
+    this.updateCall = requestAnimationFrame(this.updateBind);
+  }
+
+  onMouseEnter() {
+    this.updateElementPosition();
+    this.element.style.willChange = "transform";
+    this.setTransition();
+  }
+
+  onMouseMove(event) {
+    if (this.updateCall !== null) {
+      cancelAnimationFrame(this.updateCall);
+    }
+
+    this.event = event;
+    this.updateCall = requestAnimationFrame(this.updateBind);
+  }
+
+  onMouseLeave() {
+    this.setTransition();
+
+    if (this.settings.reset) {
+      requestAnimationFrame(this.resetBind);
+    }
+  }
+
+  reset() {
+    this.event = {
+      clientX: this.left + this.width / 2,
+      clientY: this.top + this.height / 2
+    };
+
+    if (this.element && this.element.style) {
+      this.element.style.transform = `perspective(${this.settings.perspective}px) ` +
+        `rotateX(0deg) ` +
+        `rotateY(0deg) ` +
+        `scale3d(1, 1, 1)`;
+    }
+
+    this.resetGlare();
+  }
+
+  resetGlare() {
+    if (this.glare) {
+      this.glareElement.style.transform = "rotate(180deg) translate(-50%, -50%)";
+      this.glareElement.style.opacity = "0";
+    }
+  }
+
+  updateInitialPosition() {
+    if (this.settings.startX === 0 && this.settings.startY === 0) {
+      return;
+    }
+
+    this.onMouseEnter();
+
+    if (this.fullPageListening) {
+      this.event = {
+        clientX: (this.settings.startX + this.settings.max) / (2 * this.settings.max) * this.clientWidth,
+        clientY: (this.settings.startY + this.settings.max) / (2 * this.settings.max) * this.clientHeight
+      };
+    } else {
+      this.event = {
+        clientX: this.left + ((this.settings.startX + this.settings.max) / (2 * this.settings.max) * this.width),
+        clientY: this.top + ((this.settings.startY + this.settings.max) / (2 * this.settings.max) * this.height)
+      };
+    }
+
+
+    let backupScale = this.settings.scale;
+    this.settings.scale = 1;
+    this.update();
+    this.settings.scale = backupScale;
+    this.resetGlare();
+  }
+
+  getValues() {
+    let x, y;
+
+    if (this.fullPageListening) {
+      x = this.event.clientX / this.clientWidth;
+      y = this.event.clientY / this.clientHeight;
+    } else {
+      x = (this.event.clientX - this.left) / this.width;
+      y = (this.event.clientY - this.top) / this.height;
+    }
+
+    x = Math.min(Math.max(x, 0), 1);
+    y = Math.min(Math.max(y, 0), 1);
+
+    let tiltX = (this.reverse * (this.settings.max - x * this.settings.max * 2)).toFixed(2);
+    let tiltY = (this.reverse * (y * this.settings.max * 2 - this.settings.max)).toFixed(2);
+    let angle = Math.atan2(this.event.clientX - (this.left + this.width / 2), -(this.event.clientY - (this.top + this.height / 2))) * (180 / Math.PI);
+
+    return {
+      tiltX: tiltX,
+      tiltY: tiltY,
+      percentageX: x * 100,
+      percentageY: y * 100,
+      angle: angle
+    };
+  }
+
+  updateElementPosition() {
+    let rect = this.element.getBoundingClientRect();
+
+    this.width = this.element.offsetWidth;
+    this.height = this.element.offsetHeight;
+    this.left = rect.left;
+    this.top = rect.top;
+  }
+
+  update() {
+    let values = this.getValues();
+
+    this.element.style.transform = "perspective(" + this.settings.perspective + "px) " +
+      "rotateX(" + (this.settings.axis === "x" ? 0 : values.tiltY) + "deg) " +
+      "rotateY(" + (this.settings.axis === "y" ? 0 : values.tiltX) + "deg) " +
+      "scale3d(" + this.settings.scale + ", " + this.settings.scale + ", " + this.settings.scale + ")";
+
+    if (this.glare) {
+      this.glareElement.style.transform = `rotate(${values.angle}deg) translate(-50%, -50%)`;
+      this.glareElement.style.opacity = `${values.percentageY * this.settings["max-glare"] / 100}`;
+    }
+
+    this.element.dispatchEvent(new CustomEvent("tiltChange", {
+      "detail": values
+    }));
+
+    this.updateCall = null;
+  }
+
+  /**
+   * Appends the glare element (if glarePrerender equals false)
+   * and sets the default style
+   */
+  prepareGlare() {
+    // If option pre-render is enabled we assume all html/css is present for an optimal glare effect.
+    if (!this.glarePrerender) {
+      // Create glare element
+      const jsTiltGlare = document.createElement("div");
+      jsTiltGlare.classList.add("js-tilt-glare");
+
+      const jsTiltGlareInner = document.createElement("div");
+      jsTiltGlareInner.classList.add("js-tilt-glare-inner");
+
+      jsTiltGlare.appendChild(jsTiltGlareInner);
+      this.element.appendChild(jsTiltGlare);
+    }
+
+    this.glareElementWrapper = this.element.querySelector(".js-tilt-glare");
+    this.glareElement = this.element.querySelector(".js-tilt-glare-inner");
+
+    if (this.glarePrerender) {
+      return;
+    }
+
+    Object.assign(this.glareElementWrapper.style, {
+      "position": "absolute",
+      "top": "0",
+      "left": "0",
+      "width": "100%",
+      "height": "100%",
+      "overflow": "hidden",
+      "pointer-events": "none"
+    });
+
+    Object.assign(this.glareElement.style, {
+      "position": "absolute",
+      "top": "50%",
+      "left": "50%",
+      "pointer-events": "none",
+      "background-image": `linear-gradient(0deg, rgba(255,255,255,0) 0%, rgba(255,255,255,1) 100%)`,
+      "transform": "rotate(180deg) translate(-50%, -50%)",
+      "transform-origin": "0% 0%",
+      "opacity": "0",
+    });
+
+    this.updateGlareSize();
+  }
+
+  updateGlareSize() {
+    if (this.glare) {
+      const glareSize = (this.element.offsetWidth > this.element.offsetHeight ? this.element.offsetWidth : this.element.offsetHeight) * 2;
+
+      Object.assign(this.glareElement.style, {
+        "width": `${glareSize}px`,
+        "height": `${glareSize}px`,
+      });
+    }
+  }
+
+  updateClientSize() {
+    this.clientWidth = window.innerWidth
+      || document.documentElement.clientWidth
+      || document.body.clientWidth;
+
+    this.clientHeight = window.innerHeight
+      || document.documentElement.clientHeight
+      || document.body.clientHeight;
+  }
+
+  onWindowResize() {
+    this.updateGlareSize();
+    this.updateClientSize();
+  }
+
+  setTransition() {
+    clearTimeout(this.transitionTimeout);
+    this.element.style.transition = this.settings.speed + "ms " + this.settings.easing;
+    if (this.glare) this.glareElement.style.transition = `opacity ${this.settings.speed}ms ${this.settings.easing}`;
+
+    this.transitionTimeout = setTimeout(() => {
+      this.element.style.transition = "";
+      if (this.glare) {
+        this.glareElement.style.transition = "";
+      }
+    }, this.settings.speed);
+
+  }
+
+  /**
+   * Method return patched settings of instance
+   * @param {boolean} settings.reverse - reverse the tilt direction
+   * @param {number} settings.max - max tilt rotation (degrees)
+   * @param {startX} settings.startX - the starting tilt on the X axis, in degrees. Default: 0
+   * @param {startY} settings.startY - the starting tilt on the Y axis, in degrees. Default: 0
+   * @param {number} settings.perspective - Transform perspective, the lower the more extreme the tilt gets
+   * @param {string} settings.easing - Easing on enter/exit
+   * @param {number} settings.scale - 2 = 200%, 1.5 = 150%, etc..
+   * @param {number} settings.speed - Speed of the enter/exit transition
+   * @param {boolean} settings.transition - Set a transition on enter/exit
+   * @param {string|null} settings.axis - What axis should be disabled. Can be X or Y
+   * @param {boolean} settings.glare - What axis should be disabled. Can be X or Y
+   * @param {number} settings.max-glare - the maximum "glare" opacity (1 = 100%, 0.5 = 50%)
+   * @param {boolean} settings.glare-prerender - false = VanillaTilt creates the glare elements for you, otherwise
+   * @param {boolean} settings.full-page-listening - If true, parallax effect will listen to mouse move events on the whole document, not only the selected element
+   * @param {string|object} settings.mouse-event-element - String selector or link to HTML-element what will be listen mouse events
+   * @param {boolean} settings.reset - false = If the tilt effect has to be reset on exit
+   * @param {gyroscope} settings.gyroscope - Enable tilting by deviceorientation events
+   * @param {gyroscopeSensitivity} settings.gyroscopeSensitivity - Between 0 and 1 - The angle at which max tilt position is reached. 1 = 90deg, 0.5 = 45deg, etc..
+   * @param {gyroscopeSamples} settings.gyroscopeSamples - How many gyroscope moves to decide the starting position.
+   */
+  extendSettings(settings) {
+    let defaultSettings = {
+      reverse: false,
+      max: 15,
+      startX: 0,
+      startY: 0,
+      perspective: 500,
+      easing: "cubic-bezier(.03,.98,.52,.99)",
+      scale: 1,
+      speed: 300,
+      transition: true,
+      axis: null,
+      glare: false,
+      "max-glare": 1,
+      "glare-prerender": false,
+      "full-page-listening": false,
+      "mouse-event-element": null,
+      reset: true,
+      gyroscope: true,
+      gyroscopeMinAngleX: -45,
+      gyroscopeMaxAngleX: 45,
+      gyroscopeMinAngleY: -45,
+      gyroscopeMaxAngleY: 45,
+      gyroscopeSamples: 10
+    };
+
+    let newSettings = {};
+    for (var property in defaultSettings) {
+      if (property in settings) {
+        newSettings[property] = settings[property];
+      } else if (this.element.hasAttribute("data-tilt-" + property)) {
+        let attribute = this.element.getAttribute("data-tilt-" + property);
+        try {
+          newSettings[property] = JSON.parse(attribute);
+        } catch (e) {
+          newSettings[property] = attribute;
+        }
+
+      } else {
+        newSettings[property] = defaultSettings[property];
+      }
+    }
+
+    return newSettings;
+  }
+
+  static init(elements, settings) {
+    if (elements instanceof Node) {
+      elements = [elements];
+    }
+
+    if (elements instanceof NodeList) {
+      elements = [].slice.call(elements);
+    }
+
+    if (!(elements instanceof Array)) {
+      return;
+    }
+
+    elements.forEach((element) => {
+      if (!("vanillaTilt" in element)) {
+        element.vanillaTilt = new VanillaTilt(element, settings);
+      }
+    });
+  }
+}
+
+if (typeof document !== "undefined") {
+  /* expose the class to window */
+  window.VanillaTilt = VanillaTilt;
+
+  /**
+   * Auto load
+   */
+  VanillaTilt.init(document.querySelectorAll("[data-tilt]"));
+}
+
+return VanillaTilt;
+
+}());
+
+</script>
+<script>jQuery(document).on('click','a[href*="#"]',function(t){if(jQuery(t.target).closest('.wc-tabs').length>0){return}if(jQuery(this).is('[href="#"]')||jQuery(this).is('[href="#0"]')||jQuery(this).is('[href*="replytocom"]')){return};if(location.pathname.replace(/^\//,"")==this.pathname.replace(/^\//,"")&&location.hostname==this.hostname){var e=jQuery(this.hash);(e=e.length?e:jQuery("[name="+this.hash.slice(1)+"]")).length&&(t.preventDefault(),jQuery("html, body").animate({scrollTop:e.offset().top-0},1000))}});</script><style>.ct-FontAwesomeicon-linkedin{width:0.85714285714286em}</style>
+<style>.ct-FontAwesomeicon-instagram{width:0.85714285714286em}</style>
+<style>.ct-FontAwesomeicon-spotify{width:0.85714285714286em}</style>
+<?xml version="1.0"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1"><defs><symbol id="FontAwesomeicon-linkedin" viewBox="0 0 24 28"><title>linkedin</title><path d="M5.453 9.766v15.484h-5.156v-15.484h5.156zM5.781 4.984c0.016 1.484-1.109 2.672-2.906 2.672v0h-0.031c-1.734 0-2.844-1.188-2.844-2.672 0-1.516 1.156-2.672 2.906-2.672 1.766 0 2.859 1.156 2.875 2.672zM24 16.375v8.875h-5.141v-8.281c0-2.078-0.75-3.5-2.609-3.5-1.422 0-2.266 0.953-2.641 1.875-0.125 0.344-0.172 0.797-0.172 1.266v8.641h-5.141c0.063-14.031 0-15.484 0-15.484h5.141v2.25h-0.031c0.672-1.062 1.891-2.609 4.672-2.609 3.391 0 5.922 2.219 5.922 6.969z"/></symbol><symbol id="FontAwesomeicon-instagram" viewBox="0 0 24 28"><title>instagram</title><path d="M16 14c0-2.203-1.797-4-4-4s-4 1.797-4 4 1.797 4 4 4 4-1.797 4-4zM18.156 14c0 3.406-2.75 6.156-6.156 6.156s-6.156-2.75-6.156-6.156 2.75-6.156 6.156-6.156 6.156 2.75 6.156 6.156zM19.844 7.594c0 0.797-0.641 1.437-1.437 1.437s-1.437-0.641-1.437-1.437 0.641-1.437 1.437-1.437 1.437 0.641 1.437 1.437zM12 4.156c-1.75 0-5.5-0.141-7.078 0.484-0.547 0.219-0.953 0.484-1.375 0.906s-0.688 0.828-0.906 1.375c-0.625 1.578-0.484 5.328-0.484 7.078s-0.141 5.5 0.484 7.078c0.219 0.547 0.484 0.953 0.906 1.375s0.828 0.688 1.375 0.906c1.578 0.625 5.328 0.484 7.078 0.484s5.5 0.141 7.078-0.484c0.547-0.219 0.953-0.484 1.375-0.906s0.688-0.828 0.906-1.375c0.625-1.578 0.484-5.328 0.484-7.078s0.141-5.5-0.484-7.078c-0.219-0.547-0.484-0.953-0.906-1.375s-0.828-0.688-1.375-0.906c-1.578-0.625-5.328-0.484-7.078-0.484zM24 14c0 1.656 0.016 3.297-0.078 4.953-0.094 1.922-0.531 3.625-1.937 5.031s-3.109 1.844-5.031 1.937c-1.656 0.094-3.297 0.078-4.953 0.078s-3.297 0.016-4.953-0.078c-1.922-0.094-3.625-0.531-5.031-1.937s-1.844-3.109-1.937-5.031c-0.094-1.656-0.078-3.297-0.078-4.953s-0.016-3.297 0.078-4.953c0.094-1.922 0.531-3.625 1.937-5.031s3.109-1.844 5.031-1.937c1.656-0.094 3.297-0.078 4.953-0.078s3.297-0.016 4.953 0.078c1.922 0.094 3.625 0.531 5.031 1.937s1.844 3.109 1.937 5.031c0.094 1.656 0.078 3.297 0.078 4.953z"/></symbol><symbol id="FontAwesomeicon-spotify" viewBox="0 0 24 28"><title>spotify</title><path d="M17.609 18.906c0-0.438-0.172-0.609-0.469-0.797-2.016-1.203-4.359-1.797-6.984-1.797-1.531 0-3 0.203-4.484 0.531-0.359 0.078-0.656 0.313-0.656 0.812 0 0.391 0.297 0.766 0.766 0.766 0.141 0 0.391-0.078 0.578-0.125 1.219-0.25 2.5-0.422 3.797-0.422 2.297 0 4.469 0.562 6.203 1.609 0.187 0.109 0.313 0.172 0.516 0.172 0.391 0 0.734-0.313 0.734-0.75zM19.109 15.547c0-0.422-0.156-0.719-0.547-0.953-2.391-1.422-5.422-2.203-8.563-2.203-2.016 0-3.391 0.281-4.734 0.656-0.5 0.141-0.75 0.484-0.75 1s0.422 0.938 0.938 0.938c0.219 0 0.344-0.063 0.578-0.125 1.094-0.297 2.406-0.516 3.922-0.516 2.969 0 5.672 0.781 7.625 1.937 0.172 0.094 0.344 0.203 0.594 0.203 0.531 0 0.938-0.422 0.938-0.938zM20.797 11.672c0-0.578-0.25-0.875-0.625-1.094-2.703-1.578-6.406-2.312-9.938-2.312-2.078 0-3.984 0.234-5.688 0.734-0.438 0.125-0.844 0.5-0.844 1.156 0 0.641 0.484 1.141 1.125 1.141 0.234 0 0.453-0.078 0.625-0.125 1.516-0.422 3.156-0.578 4.797-0.578 3.25 0 6.625 0.719 8.797 2.016 0.219 0.125 0.375 0.187 0.625 0.187 0.594 0 1.125-0.469 1.125-1.125zM24 14c0 6.625-5.375 12-12 12s-12-5.375-12-12 5.375-12 12-12 12 5.375 12 12z"/></symbol></defs></svg><?xml version="1.0"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1"><defs><symbol id="Lineariconsicon-plus-circle" viewBox="0 0 20 20"><title>plus-circle</title><path class="path1" d="M16.218 3.782c-1.794-1.794-4.18-2.782-6.718-2.782s-4.923 0.988-6.718 2.782-2.782 4.18-2.782 6.717 0.988 4.923 2.782 6.718 4.18 2.782 6.718 2.782 4.923-0.988 6.718-2.782 2.782-4.18 2.782-6.718-0.988-4.923-2.782-6.717zM9.5 19c-4.687 0-8.5-3.813-8.5-8.5s3.813-8.5 8.5-8.5c4.687 0 8.5 3.813 8.5 8.5s-3.813 8.5-8.5 8.5z"/><path class="path2" d="M15.5 10h-5.5v-5.5c0-0.276-0.224-0.5-0.5-0.5s-0.5 0.224-0.5 0.5v5.5h-5.5c-0.276 0-0.5 0.224-0.5 0.5s0.224 0.5 0.5 0.5h5.5v5.5c0 0.276 0.224 0.5 0.5 0.5s0.5-0.224 0.5-0.5v-5.5h5.5c0.276 0 0.5-0.224 0.5-0.5s-0.224-0.5-0.5-0.5z"/></symbol></defs></svg>            
+            <script type="text/javascript">
+            jQuery(document).ready(oxygen_init_burger);
+            function oxygen_init_burger($) {
+                
+                $('.oxy-burger-trigger').each(function( i, OxyBurgerTrigger ) {
+                    
+                    let touchEventOption =  $( OxyBurgerTrigger ).children('.hamburger').data('touch');
+                    let touchEvent = 'ontouchstart' in window ? touchEventOption : 'click';     
+                    
+                    // Close hamburger when element clicked 
+                    $( OxyBurgerTrigger ).on( touchEvent, function(e) {    
+                        
+                        e.stopPropagation();
+
+                        // Check user wants animations
+                        if ($(this).children( '.hamburger' ).data('animation') !== 'disable') {
+                            $(this).children( '.hamburger' ).toggleClass('is-active');
+                        }
+                        
+                    } );
+                    
+                } );
+                
+                
+                
+                // For listening for modals closing to close the hamburger
+                var className = 'live';
+                var target = document.querySelectorAll(".oxy-modal-backdrop[data-trigger='user_clicks_element']");
+                for (var i = 0; i < target.length; i++) {
+
+                    // create an observer instance
+                    var observer = new MutationObserver(function(mutations) {
+                        mutations.forEach(function(mutation) {
+                            
+                            // When the style changes on modal backdrop
+                            if (mutation.attributeName === 'style') {
+
+                                // If the modal is live and is closing  
+                                if(!mutation.target.classList.contains(className)){
+
+                                    // Close the toggle
+                                    closeToggle(mutation.target);
+
+                                }
+                            }  
+                        });
+                    });
+
+                    // configuration of the observer
+                    var config = { 
+                        attributes: true,
+                        attributeFilter: ['style'],
+                        subtree: false
+                    };
+
+                    // pass in the target node, as well as the observer options
+                    observer.observe(target[i], config);
+                }
+                
+                
+               // Helper function to close hamburger if modal closed.
+                function closeToggle(elem) {
+                    
+                    var triggerSelector = $($(elem).data('trigger-selector'));
+                    
+                    // Abort if burger not being used as the trigger or animations not turned on
+                    if ((!triggerSelector.hasClass('oxy-burger-trigger')) || (triggerSelector.children( '.hamburger' ).data('animation') === 'disable') ) {
+                        return;
+                    }
+                    // Close that particular burger
+                    triggerSelector.children('.hamburger').removeClass('is-active');
+                    
+                }
+                
+                
+            } </script>
+
+                <script type="text/javascript">   
+                
+            jQuery(document).ready(oxygen_init_slide_menu);
+            function oxygen_init_slide_menu($) {
+                
+                // check if supports touch, otherwise it's click:
+                let touchEvent = 'ontouchstart' in window ? 'click' : 'click';  
+                  
+                    $('.oxy-slide-menu').each(function(){
+                        
+                          let slide_menu = $(this);
+                          let slide_start = slide_menu.children( '.oxy-slide-menu_inner' ).data( 'start' );
+                          let slide_duration = slide_menu.children( '.oxy-slide-menu_inner' ).data( 'duration' );
+                          let slideClickArea = '.menu-item-has-children > a > .oxy-slide-menu_dropdown-icon-click-area';
+                          let dropdownIcon = slide_menu.children( '.oxy-slide-menu_inner' ).data( 'icon' );
+                        
+                        
+                          slide_menu.find('.menu-item-has-children > a').append('<button aria-expanded=\"false\" aria-pressed=\"false\" class=\"oxy-slide-menu_dropdown-icon-click-area\"><svg class=\"oxy-slide-menu_dropdown-icon\"><use xlink:href=\"#'+ dropdownIcon +'\"></use></svg><span class=\"screen-reader-text\">Submenu</span></button>');
+                         
+                         // If being hidden as starting position, for use as mobile menu
+                          if ( slide_start == 'hidden' ) {
+
+                              let slide_trigger_selector = $( slide_menu.children( '.oxy-slide-menu_inner' ).data( 'trigger-selector' ) );
+
+                              //slide_trigger_selector.click( function( event ) {
+                              slide_trigger_selector.on( touchEvent, function(e) {      
+                                 slide_menu.slideToggle(slide_duration);
+                              } );
+
+                          }
+                        
+                          if ('enable' === slide_menu.children( '.oxy-slide-menu_inner' ).data( 'currentopen' )) {
+                              
+                              let currentAncestorButton = slide_menu.find('.current-menu-ancestor').children('a').children('.oxy-slide-menu_dropdown-icon-click-area');
+                              
+                              currentAncestorButton.attr('aria-expanded', 'true');
+                              currentAncestorButton.attr('aria-pressed', 'true');
+                              currentAncestorButton.addClass('oxy-slide-menu_open');
+                              currentAncestorButton.closest('.current-menu-ancestor').children('.sub-menu').slideDown(0);
+                          }
+                        
+                    });
+
+                 // Sub menu icon being clicked
+                 $('.oxy-slide-menu, .oxygen-builder-body').on( touchEvent, '.menu-item-has-children > a > .oxy-slide-menu_dropdown-icon-click-area',  function(e) {  
+                        e.stopPropagation();
+                        e.preventDefault();
+                            oxy_slide_menu_toggle(this);
+                        }
+
+                    );
+                
+
+                    function oxy_slide_menu_toggle(trigger) {
+                                    
+                            var durationData = $(trigger).closest('.oxy-slide-menu_inner').data( 'duration' );
+                            var othermenus = $(trigger).closest( '.menu-item-has-children' ).siblings('.menu-item-has-children');
+                                             othermenus.find( '.sub-menu' ).slideUp( durationData );
+                                             othermenus.find( '.oxy-slide-menu_open' ).removeClass( 'oxy-slide-menu_open' );
+                                             othermenus.find( '.oxy-slide-menu_open' ).attr('aria-expanded', function (i, attr) {
+                                                    return attr == 'true' ? 'false' : 'true'
+                                                });
+                                            othermenus.find( '.oxy-slide-menu_open' ).attr('aria-pressed', function (i, attr) {
+                                                return attr == 'true' ? 'false' : 'true'
+                                            });
+
+                            $(trigger).closest('.menu-item-has-children').children('.sub-menu').slideToggle( durationData );
+
+                            $(trigger).attr('aria-expanded', function (i, attr) {
+                                return attr == 'true' ? 'false' : 'true'
+                            });
+
+                            $(trigger).attr('aria-pressed', function (i, attr) {
+                                return attr == 'true' ? 'false' : 'true'
+                            });
+
+                            $(trigger).toggleClass('oxy-slide-menu_open');
+
+                        }        
+                        
+                
+                    let selector = '.oxy-slide-menu .menu-item a[href*="#"]';
+                    $(selector).on('click', function(event){
+                        
+                        if ($(event.target).closest('.oxy-slide-menu_dropdown-icon-click-area').length > 0) {
+                            // toggle icon clicked, no need to trigger it 
+                            return;
+                        }
+                        else if ($(event.target).attr("href") === "#" && $(this).parent().hasClass('menu-item-has-children')) {
+                            // prevent browser folllowing link
+                            event.preventDefault();
+                            // empty href don't lead anywhere, use it as toggle icon click area
+                            var hasklinkIcon = $(this).find('.oxy-slide-menu_dropdown-icon-click-area');
+                            oxy_slide_menu_toggle(hasklinkIcon);
+                            
+                        }
+                      });
+
+             };
+            
+        </script>
+
+    <link rel='stylesheet' id='rs-plugin-settings-css'  href='https://jakesinclair.ca/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.5.23' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<script type='text/javascript' src='https://jakesinclair.ca/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.5.18' defer async id='tp-tools-js'></script>
+<script type='text/javascript' src='https://jakesinclair.ca/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.5.23' defer async id='revmin-js'></script>
+<script data-cfasync="false" type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/gsap.min.js?ver=3.10.4' id='mp-gsap-js'></script>
+<script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/ScrollTrigger.min.js?ver=3.10.4' id='mp-ScrollTrigger-js'></script>
+<script type='text/javascript' id='mp-ScrollTrigger-js-after'>
+window.addEventListener("DOMContentLoaded",()=>{document.body.style.overflowX="hidden";window.gsap.registerPlugin({name:"transition",init(t){return this.target=t,!0},render:(t,e)=>"object"==typeof e?.target&&(void 0!==e?.target?.style&&void(e.target.style.transition=0===t?"":"unset"))});gsap.config({nullTargetWarn:false});gsap.defaults({duration:1,transition:"unset"});if(!window.matchMedia("(prefers-reduced-motion: reduce)").matches){window.addEventListener("load",e=>{window._mp_1642639418=gsap.timeline().fromTo(".offpage__title",{"color":"rgba(229, 188, 174, 1)","autoAlpha":0,"letter-spacing":"100rem","font-size":"200rem"},{"color":"#fafafa","autoAlpha":1,"letter-spacing":0,"font-size":"4rem"},0);});window.addEventListener("load",e=>{window._mp_1642696014=gsap.timeline().fromTo("#div_block-299-353",{"clip-path":"inset(0% 0% 0% 0%)","duration":0.8},{"ease":"sine","clip-path":"inset(100% 0% 0% 0%)","duration":0.8},0);});window.addEventListener("load",e=>{window._mp_1642697284=gsap.timeline().fromTo("#div_block-299-353",{"autoAlpha":1,"display":"flex","clip-path":"circle(0% at 97.5% 2.5%)","duration":1.1},{"ease":"sine","autoAlpha":1,"display":"flex","clip-path":"circle(100% at 50% 50%)","duration":1.1},0).pause();document.querySelectorAll("a").forEach((e=>{e.addEventListener("click",(e=>{const t=e?.target?.closest("a");parent.mp_iframe||t?.classList?.value?.split(" ")?.some(r=>"ignore-exit".split(",")?.includes(r))||(e.preventDefault(),_mp_1642697284.play().then((()=>{window.location.href=void 0!==t?t:window.location.href})))}))}));});window._mp_1644949811=[];gsap.utils.toArray(".portfolio__text").forEach((item)=>{_mp_1644949811.push("_mp_1644949811_"+(_mp_1644949811.length+1));const _t=gsap.timeline({scrollTrigger:{scrub:1,trigger:item,start:"top 80%",end:"top 51%",}}).fromTo(item.closest([".portfolio__text"]),{"scale":0.75,"autoAlpha":0},{"scale":1,"autoAlpha":1},0);window["_mp_1644949811_"+_mp_1644949811.length]=_t;});window._mp_1646169689=[];gsap.utils.toArray(".project__item").forEach((item)=>{_mp_1646169689.push("_mp_1646169689_"+(_mp_1646169689.length+1));const _t=gsap.timeline({scrollTrigger:{scrub:1,trigger:item,start:"top 80%",end:"top 40%",}}).fromTo(item.closest([".project__item"]),{"scale":0.75,"autoAlpha":0},{"scale":1,"autoAlpha":1},0);window["_mp_1646169689_"+_mp_1646169689.length]=_t;});window._mp_1646169771=gsap.timeline({scrollTrigger:{scrub:0,trigger:".summary_anchor",start:"top+=100% 25%",end:"top+=100%",}});_mp_1646169771.fromTo(".summary",{"ease":"linear","autoAlpha":0,"duration":0.8},{"ease":"sine","autoAlpha":1,"duration":0.8},0);window._mp_1646341188=gsap.timeline({scrollTrigger:{scrub:1,trigger:".entrance_anchor",start:"top 97%",end:"top 86%",}});_mp_1646341188.fromTo(".scroll__lottie",{"autoAlpha":1},{"autoAlpha":0},0);window._mp_1646935204=[];gsap.utils.toArray(".portfolio__item").forEach((item)=>{_mp_1646935204.push("_mp_1646935204_"+(_mp_1646935204.length+1));const _t=gsap.timeline({scrollTrigger:{scrub:1,trigger:item,start:"top 80%",end:"top 40%",}}).fromTo(item.closest([".portfolio__item"]),{"scale":0.75,"autoAlpha":0},{"scale":1,"autoAlpha":1},0);window["_mp_1646935204_"+_mp_1646935204.length]=_t;});window.addEventListener("load",e=>{window._mp_1648143108=gsap.timeline().fromTo(".header__logo",{"scale":0,"autoAlpha":0,"duration":0.6},{"scale":1,"ease":"elastic","autoAlpha":1,"duration":0.6},0.8);});window._mp_1648146481=gsap.timeline({scrollTrigger:{scrub:1,trigger:".entrance_anchor",start:"top 100%",end:"bottom 15%",}});_mp_1648146481.fromTo(".header__logo",{"scale":1},{"scale":0.75},0);_mp_1648146481.fromTo(".header__logo",{"scale":0.75,"duration":0.4},{"scale":1,"duration":0.4},1);window._mp_1648151000=gsap.timeline({scrollTrigger:{scrub:1,trigger:".entrance_anchor",start:"top 100%",end:"bottom 15%",}});_mp_1648151000.fromTo(".skill__animation",{"scale":1},{"scale":0.5},0);_mp_1648151000.fromTo(".skill__animation",{"scale":0.75,"duration":0.4},{"scale":1,"duration":0.4},1);window.addEventListener("load",e=>{window._mp_1648151100=gsap.timeline().fromTo(".skill__animation",{"scale":0,"autoAlpha":0,"duration":0.6},{"scale":1,"ease":"elastic","autoAlpha":1,"duration":0.6},0.8);});window._mp_1648861520=gsap.timeline({scrollTrigger:{trigger:".entrance_anchor",start:"top",end:"top",toggleActions:"play none reverse none",}});_mp_1648861520.fromTo("#-burger-trigger-20-353",{"scale":0},{"scale":1,"ease":"elastic","duration":0.9},0);window._mp_1649177142=gsap.timeline({scrollTrigger:{scrub:1,trigger:".entrance_anchor",start:"top 30%",end:"bottom 15%",}});_mp_1649177142.fromTo(".service_hide",{"autoAlpha":1},{"autoAlpha":0,"duration":0.4},0);window._mp_1649695148=[];gsap.utils.toArray(".basic_motion").forEach((item)=>{_mp_1649695148.push("_mp_1649695148_"+(_mp_1649695148.length+1));const _t=gsap.timeline({scrollTrigger:{scrub:1,trigger:item,start:"top 100%",end:"bottom",}}).fromTo(item.closest([".basic_motion"]),{"yPercent":30},{"yPercent":-30},0);window["_mp_1649695148_"+_mp_1649695148.length]=_t;});window._mp_1649695457=[];gsap.utils.toArray(".slow_motion").forEach((item)=>{_mp_1649695457.push("_mp_1649695457_"+(_mp_1649695457.length+1));const _t=gsap.timeline({scrollTrigger:{scrub:1,trigger:item,start:"top 100%",end:"bottom",}}).fromTo(item.closest([".slow_motion"]),{"yPercent":15},{"yPercent":-15},0);window["_mp_1649695457_"+_mp_1649695457.length]=_t;});}window.addEventListener("load",(e=>setTimeout((()=>{window.ScrollTrigger.sort();window.ScrollTrigger.getAll().forEach((a=>a.refresh()))}),92)));});
+</script>
+<script type='text/javascript' src='https://jakesinclair.ca/wp-content/plugins/oxyextras/components/assets/lottie-player.js?ver=1.0.0' id='lottie-js-js'></script>
+<script type='text/javascript' src='https://jakesinclair.ca/wp-content/plugins/oxyextras/components/assets/lottie-interactivity.js?ver=1.0.0' id='lottie-interactivity-js-js'></script>
+<script type='text/javascript' src='https://jakesinclair.ca/wp-content/plugins/oxyextras/components/assets/intersectionobserver.js?ver=1.0.0' id='intersection-js-js'></script>
+<script type='text/javascript' src='https://jakesinclair.ca/wp-content/plugins/oxyextras/components/assets/lottie-init.js?ver=1.0.0' id='lottie-init-js-js'></script>
+<script type="text/javascript" id="ct-footer-js">jQuery('.tabs-2133-tab-active').attr({'data-aos-enable': 'true',});jQuery('.animate').attr({'data-aos-enable': 'true','data-aos': 'fade-up','data-aos-duration': '1000','data-aos-anchor-placement': 'center-center','data-aos-easing': 'ease-in','data-aos-once': 'false',});
+	  	AOS.init({
+	  		  		  		  		  		  		  				  			})
+		
+				jQuery('body').addClass('oxygen-aos-enabled');
+		
+		
+	</script><script type="text/javascript" id="ct_code_block_js_100085">document.addEventListener("DOMContentLoaded", (event) => {
+  const menuLinks = document.querySelectorAll(
+    ".oxy-slide-menu .menu-item-has-children a, .no-exit a"
+  );
+
+  for (let i = 0; i < menuLinks.length; i++) {
+    menuLinks[i].classList.add("ignore-exit");
+  }
+});</script>
+<script type="text/javascript" id="ct_code_block_js_9">// images setup
+const images = [
+  "https://i.imgur.com/NVNH7wL.png"
+];
+
+
+
+// init plugin
+rgbKineticSlider = new rgbKineticSlider({
+  // images and content sources
+  slideImages: images, // array of images >demo size : 1920 x 1080
+ 
+
+  // displacement images sources
+  backgroundDisplacementSprite: "https://i.ibb.co/N246LxD/map-9.jpg", // slide displacement image
+  cursorDisplacementSprite: "https://i.ibb.co/KrVr51f/displace-circle.png", // cursor displacement image
+
+  // cursor displacement effect
+  cursorImgEffect: true, // enable cursor effect
+  cursorTextEffect: false, // enable cursor text effect
+  cursorScaleIntensity: 0.25, // cursor effect intensity
+  cursorMomentum: 0.14, // lower is slower
+
+  // swipe
+  swipe: false, // enable swipe
+  swipeDistance: window.innerWidth * 0.4, // swipe distance - ex : 580
+  swipeScaleIntensity: 2, // scale intensity during swipping
+
+  // slide transition
+  slideTransitionDuration: 1, // transition duration
+  transitionScaleIntensity: 30, // scale intensity during transition
+  transitionScaleAmplitude: 160, // scale amplitude during transition
+
+  // regular navigation
+  nav: false, // enable navigation
+  navElement: ".main-nav", // set nav class
+
+  // image rgb effect
+  imagesRgbEffect: false, // enable img rgb effect
+  imagesRgbIntensity: 0.9, // set img rgb intensity
+  navImagesRgbIntensity: 80, // set img rgb intensity for regular nav
+
+  // texts settings
+  textsDisplay: false, // show title
+  textsSubTitleDisplay: false, // show subtitles
+  textsTiltEffect: false, // enable text tilt
+  googleFonts: ["Playfair Display:700", "Roboto:400"], // select google font to use
+  buttonMode: false, // enable button mode for title
+  textsRgbEffect: false, // enable text rgb effect
+  textsRgbIntensity: 0.03, // set text rgb intensity
+  navTextsRgbIntensity: 15, // set text rgb intensity for regular nav
+
+  textTitleColor: "white", // title color
+  textTitleSize: 125, // title size
+  mobileTextTitleSize: 125, // title size
+  textTitleLetterspacing: 3, // title letterspacing
+
+  textSubTitleColor: "white", // subtitle color ex : 0x000000
+  textSubTitleSize: 21, // subtitle size
+  mobileTextSubTitleSize: 21, // mobile subtitle size
+  textSubTitleLetterspacing: 2, // subtitle letter spacing
+  textSubTitleOffsetTop: 90, // subtitle offset top
+  mobileTextSubTitleOffsetTop: 90 // mobile subtitle offset top
+});
+
+</script>
+<style type="text/css" id="ct_code_block_css_9">* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.rgbKineticSlider {
+  display: block;
+  position: fixed;
+  overflow: hidden;
+  width: 100vw;
+  height: 100vh;
+	z-index: -100;
+}
+.rgbKineticSlider canvas {
+  position: fixed;
+  display: block;
+	 width: 100vw !important;
+  height: 100vh !important;
+  top: 0 !important;
+  left: 0 !important;
+  transform: scale(1.5) !important;
+z-index: -100
+}
+
+
+</style>
+<script src='https://stats.wp.com/e-202438.js' defer></script>
+<script>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:10.9.2',blog:'30774326',post:'0',tz:'0',srv:'jakesinclair.ca'} ]);
+	_stq.push([ 'clickTrackerInit', '30774326', '0' ]);
+</script>
+<!-- /WP_FOOTER --> 
+</body>
+</html>
+
+
+<!-- Page cached by LiteSpeed Cache 6.5.0.2 on 2024-09-17 21:59:36 -->
